@@ -11,8 +11,7 @@
 
 - 💬 Ask me about **.**
 
-- 📫 How to reach me [**khalil.lourimi.rml@gmail.com**](mailto:khalil.lourimi.rml@gmail.com)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B216%2052%2026%2052%2036-green?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+21652265236)
+- 📫 How to reach me [**khalil.lourimi.rml@gmail.com**](mailto:khalil.lourimi.rml@gmail.com)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B216%2052%2026%2052%2036-green?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+21652265236)
 
 - ⚡ Fun fact **Your brain produces enough electricity to power a light bulb!**
 
