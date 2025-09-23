@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **.**
 
-- 📫 How to reach me **khalil.lourimi.rml@gmail.com or whatsapp (+216) 52 26 52 36**
+- 📫 How to reach me **khalil.lourimi.rml@gmail.com  ![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B216%2052%2026%2052%2036-green?style=flat&logo=whatsapp&logoColor=white) whatsapp (+216) 52 26 52 36**
 
 - ⚡ Fun fact **Your brain produces enough electricity to power a light bulb!**
 
