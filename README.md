@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on N/A
 
-- 🤝 I’m looking for help with N/A()
+- 🤝 I’m looking for help with N/A
 
 - 💬 Ask me about **.**
 
