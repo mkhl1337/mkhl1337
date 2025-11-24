@@ -6,7 +6,7 @@ A passionate Web developer from ***Tunisia***
 
 💬 Always curious about clean code, web apps, and learning new technologies  
 
-📫 How to reach me: (mailto:khalil.lourimi.rml@gmail.com)[khalil.lourimi.rml@gmail.com] · 📱 [WhatsApp](https://wa.me/21652265236)
+📫 How to reach me: [khalil.lourimi.rml@gmail.com](mailto:khalil.lourimi.rml@gmail.com) · 📱 [WhatsApp](https://wa.me/21652265236)
 
 ⚡ Fun fact: Your brain produces enough electricity to power a light bulb!
 
