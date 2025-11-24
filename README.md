@@ -1,19 +1,14 @@
-<h1 align="center">Hi 👋, I'm Mohamed Khalil Lourimi</h1>
-<h3 align="center">A passionate web developer from Tunisia</h3>
+Hi 👋, I'm Mohamed Khalil Lourimi  
+A passionate web developer from Tunisia  
 
-- 🔭 I’m currently working on N/A
+🌱 I’m currently learning JavaScript (ES6) and React  
+🎓 1st year software engineering student  
 
-- 🌱 I’m currently learning **JS/REACT**
+💬 Always curious about clean code, web apps, and learning new technologies  
 
-- 👯 I’m looking to collaborate on N/A
+📫 How to reach me: [khalil.lourimi.rml@gmail.com](mailto:khalil.lourimi.rml@gmail.com) · 📱 [WhatsApp](https://wa.me/21652265236)  
 
-- 🤝 I’m looking for help with N/A
-
-- 💬 Ask me about **.**
-
-- 📫 How to reach me  [**khalil.lourimi.rml@gmail.com**](mailto:khalil.lourimi.rml@gmail.com)  🔗  [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B216%2052%2026%2052%2036-green?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+21652265236)
-
-- ⚡ Fun fact **Your brain produces enough electricity to power a light bulb!**
+⚡ Fun fact: Your brain produces enough electricity to power a light bulb!
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
