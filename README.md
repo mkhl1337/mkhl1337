@@ -1,4 +1,4 @@
-Hi 👋, I'm <h2> <b> Mohamed Khalil Lourimi </b> </h2>  
+Hi 👋, I'm  <b> Mohamed Khalil Lourimi </b>  
 A passionate web developer from <b> Tunisia </b>  
 
 🌱 I’m currently learning JavaScript (ES6) and React  
