@@ -1,5 +1,5 @@
-Hi 👋, I'm Mohamed Khalil Lourimi  
-A passionate web developer from Tunisia  
+Hi 👋, I'm <h2> <b> Mohamed Khalil Lourimi </b> </h2>  
+A passionate web developer from <b> Tunisia </b>  
 
 🌱 I’m currently learning JavaScript (ES6) and React  
 🎓 1st year software engineering student  
