@@ -1,7 +1,7 @@
 Hi 👋, I'm  ****Mohamed Khalil Lourimi****  
 A passionate Web developer from ***Tunisia***
 
-🌱 I’m currently learning JavaScript (ES6) and React  
+🌱 I’m currently learning JS and React  
 🎓 1st year software engineering student  
 
 💬 Always curious about clean code, web apps, and learning new technologies  
